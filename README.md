@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @whitesandA
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Arnav aka @whitesandA
+- 👀 I’m interested in microelectronics 
+- 🌱 I’m currently learning Digital IC Design
+- 💞️ I’m looking to collaborate on EDA tools
+
 
 <!---
 whitesandA/whitesandA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
