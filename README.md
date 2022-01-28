@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Arnav aka @whitesandA
+- 👋 Hi, I’m Arnav aka @arnav197
 - 👀 I’m interested in microelectronics 
 - 🌱 I’m currently learning Digital IC Design
 - 💞️ I’m looking to collaborate on EDA tools
