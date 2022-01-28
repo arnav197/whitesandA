@@ -1,0 +1,5 @@
+- If you're somehow curious to find out more about me, read ahead.
+- I dedicate a fair amount of my time currently in taking classes and getting along with some of the stuff which has been advised to me.
+- These include Digital IC Circuits, Digital Communication, and Python.  
+- Moreover, I am actively looking for projects and internship opportunities.
+- I am, by no means, currently an expert. Although I actively strive to learn more and apply.
