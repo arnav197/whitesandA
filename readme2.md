@@ -3,3 +3,4 @@
 - These include Digital IC Circuits, Digital Communication, and Python.  
 - Moreover, I am actively looking for projects and internship opportunities.
 - I am, by no means, currently an expert. Although I actively strive to learn more and apply.
+- If you're reading this, ignore, I am experimenting with Github at this point. 
